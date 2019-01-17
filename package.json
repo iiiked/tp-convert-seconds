@@ -1,0 +1,19 @@
+{
+  "name": "tp-convert-seconds",
+  "version": "1.0.0",
+  "description": "Convert seconds in human readable format",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiiked/tp-convert-seconds.git"
+  },
+  "author": "iiiked",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iiiked/tp-convert-seconds/issues"
+  },
+  "homepage": "https://github.com/iiiked/tp-convert-seconds#readme"
+}
